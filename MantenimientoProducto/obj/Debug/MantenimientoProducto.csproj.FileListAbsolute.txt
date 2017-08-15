@@ -1,0 +1,10 @@
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\bin\Debug\MantenimientoProducto.exe.config
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\bin\Debug\MantenimientoProducto.exe
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\bin\Debug\MantenimientoProducto.pdb
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\obj\Debug\MantenimientoProducto.csprojResolveAssemblyReference.cache
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\obj\Debug\MantenimientoProducto.frmPrincipal.resources
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\obj\Debug\MantenimientoProducto.Properties.Resources.resources
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\obj\Debug\MantenimientoProducto.csproj.GenerateResource.Cache
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\obj\Debug\MantenimientoProducto.exe
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\obj\Debug\MantenimientoProducto.pdb
+c:\users\francis\documents\visual studio 2017\Projects\MantenimientoProducto\MantenimientoProducto\obj\Debug\MantenimientoProducto.frmProductos.resources
